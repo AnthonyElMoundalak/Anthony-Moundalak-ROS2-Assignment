@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/temperature_package/temperature_package.egg-info
+writing ../build/temperature_package/temperature_package.egg-info/PKG-INFO
+writing dependency_links to ../build/temperature_package/temperature_package.egg-info/dependency_links.txt
+writing entry points to ../build/temperature_package/temperature_package.egg-info/entry_points.txt
+writing requirements to ../build/temperature_package/temperature_package.egg-info/requires.txt
+writing top-level names to ../build/temperature_package/temperature_package.egg-info/top_level.txt
+writing manifest file '../build/temperature_package/temperature_package.egg-info/SOURCES.txt'
+reading manifest file '../build/temperature_package/temperature_package.egg-info/SOURCES.txt'
+writing manifest file '../build/temperature_package/temperature_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build/lib
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build/lib/temperature_package
+copying temperature_package/__init__.py -> /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build/lib/temperature_package
+running install
+running install_lib
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package
+copying /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build/lib/temperature_package/__init__.py -> /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package
+byte-compiling /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/share/ament_index
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/share/ament_index/resource_index
+creating /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/share/ament_index/resource_index/packages
+copying resource/temperature_package -> /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/share/temperature_package
+running install_egg_info
+Copying ../build/temperature_package/temperature_package.egg-info to /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/install.log'
