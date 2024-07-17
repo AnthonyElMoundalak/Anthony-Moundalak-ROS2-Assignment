@@ -1,0 +1,23 @@
+[0.875s] Invoking command in '/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/temperature_package': PYTHONPATH=/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/temperature_package build --build-base /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build install --record /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/install.log --single-version-externally-managed install_data
+[1.145s] running egg_info
+[1.146s] writing ../build/temperature_package/temperature_package.egg-info/PKG-INFO
+[1.146s] writing dependency_links to ../build/temperature_package/temperature_package.egg-info/dependency_links.txt
+[1.147s] writing entry points to ../build/temperature_package/temperature_package.egg-info/entry_points.txt
+[1.147s] writing requirements to ../build/temperature_package/temperature_package.egg-info/requires.txt
+[1.148s] writing top-level names to ../build/temperature_package/temperature_package.egg-info/top_level.txt
+[1.151s] reading manifest file '../build/temperature_package/temperature_package.egg-info/SOURCES.txt'
+[1.152s] writing manifest file '../build/temperature_package/temperature_package.egg-info/SOURCES.txt'
+[1.153s] running build
+[1.153s] running build_py
+[1.153s] running install
+[1.153s] running install_lib
+[1.155s] running install_data
+[1.156s] running install_egg_info
+[1.158s] removing '/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.158s] Copying ../build/temperature_package/temperature_package.egg-info to /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages/temperature_package-0.0.0-py3.10.egg-info
+[1.185s] running install_scripts
+[1.208s] Installing alert_publisher script to /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/temperature_package
+[1.208s] Installing temperature_publisher script to /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/temperature_package
+[1.209s] Installing threshold_subscriber script to /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/temperature_package
+[1.209s] writing list of installed files to '/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/install.log'
+[1.249s] Invoked command in '/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/temperature_package' returned '0': PYTHONPATH=/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/install/temperature_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/temperature_package build --build-base /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/build install --record /home/anthonyubuntu/Desktop/inmind/session5/Anthony-Moundalak-ROS2-Assignment/ros2ws/src/build/temperature_package/install.log --single-version-externally-managed install_data

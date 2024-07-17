@@ -8,6 +8,7 @@ setup.py
 ../build/temperature_package/temperature_package.egg-info/requires.txt
 ../build/temperature_package/temperature_package.egg-info/top_level.txt
 ../build/temperature_package/temperature_package.egg-info/zip-safe
+launch/temp_monitoring_launch.py
 resource/temperature_package
 temperature_package/__init__.py
 temperature_package/alert_publisher_node.py
