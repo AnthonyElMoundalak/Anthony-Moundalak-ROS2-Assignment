@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             'temperature_publisher = temperature_package.temperature_publisher_node:main',
             'threshold_subscriber = temperature_package.threshold_subscriber_node:main',
+            'alert_publisher = temperature_package.alert_publisher_node:main',
         ],
     },
 )
